@@ -13,6 +13,8 @@ Criei alguns progamas e consegui aprender na prátiva sobre:
 
  `Tipos de Dados:`  Existem várias categorias de tipos de dados embutidos, incluindo numéricos (como int, float, complex), sequências (como str, list, tuple) e o tipo booleano (bool). A escolha do tipo de dados adequado é essencial para realizar operações corretamente e manipular informações de forma eficiente. 
 
+ ![alt text](image.png)
+
 
 
 
