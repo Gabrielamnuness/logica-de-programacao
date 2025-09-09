@@ -7,7 +7,7 @@ Na disciplina de lógica no curso técnico de Análise e Desenvolvimento de Sist
 
 Criei alguns progamas e consegui aprender na prátiva sobre:
 
- `Variáveis:` Para declarar uma variável, atribuimos um nome a uma valor, usando o operador de atribuição (=).
+ `Variáveis:` Para declarar uma variável, atribuimos um nome a um valor, usando o operador de atribuição (=).
 
  `Condicionais:` Permitem que o programa tome decisões e execute diferentes blocos de código com base em condições específicas, usando If, Else e Elif.
 
